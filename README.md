@@ -13,7 +13,7 @@ The Iris dataset contains measurements of sepal length, sepal width, petal lengt
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/Classification-of-Iris-Flower-using-petal-length.git
+git clone https://github.com/Ganesh-Ganapathi/Classification-of-Iris-Flower-using-petal-length.git
 cd Classification-of-Iris-Flower-using-petal-length
 
 
